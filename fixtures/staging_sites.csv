@@ -1,0 +1,12 @@
+country_code,source_id,vertical,name,review_status,geom_wkt,srid,source_name,source_date,uncertainty,peat_depth_m
+DE,DE-BESS-001,bess,Synthetic parcel Nordost 1,accepted,"POLYGON((700000 5336000,700200 5336000,700200 5336150,700000 5336150,700000 5336000))",25832,fixture-land-registry,2026-06-01,medium,
+DE,DE-BESS-002,bess,Synthetic parcel Nord 2,accepted,"POLYGON((692000 5347000,692150 5347000,692150 5347100,692000 5347100,692000 5347000))",25832,fixture-land-registry,2026-06-01,medium,
+DE,DE-BESS-003,bess,Synthetic parcel Ost 3,accepted,"POLYGON((712000 5354000,712250 5354000,712250 5354200,712000 5354200,712000 5354000))",25832,fixture-land-registry,2026-05-15,high,
+DE,DE-BESS-004,bess,Synthetic parcel pending review,pending,"POLYGON((698000 5340000,698100 5340000,698100 5340100,698000 5340100,698000 5340000))",25832,fixture-land-registry,2026-06-01,medium,
+DE,DE-BESS-005,bess,Synthetic parcel without geometry,accepted,,,fixture-land-registry,2026-06-01,high,
+DE,DE-BESS-006,bess,Synthetic parcel in wrong CRS,accepted,"POLYGON((11.70 48.15,11.71 48.15,11.71 48.16,11.70 48.16,11.70 48.15))",4326,fixture-land-registry,2026-06-01,medium,
+DE,DE-PEAT-001,peatland,Synthetic moor Ost 1,accepted,"POLYGON((705000 5350000,705300 5350000,705300 5350200,705000 5350200,705000 5350000))",25832,fixture-peat-survey,2026-04-20,medium,1.2
+DE,DE-PEAT-002,peatland,Synthetic moor Sued 2,accepted,"POLYGON((680000 5345000,680150 5345000,680150 5345100,680000 5345100,680000 5345000))",25832,fixture-peat-survey,2026-04-20,high,0.4
+DE,DE-PEAT-003,peatland,Synthetic moor self-intersecting,accepted,"POLYGON((690000 5352000,690100 5352100,690100 5352000,690000 5352100,690000 5352000))",25832,fixture-peat-survey,2026-04-20,medium,0.8
+DE,DE-PEAT-004,peatland,Synthetic moor rejected in review,rejected,"POLYGON((683000 5349000,683100 5349000,683100 5349100,683000 5349100,683000 5349000))",25832,fixture-peat-survey,2026-04-20,medium,0.6
+AT,AT-PEAT-001,peatland,Synthetic moor Tirol 1,accepted,"POLYGON((681000 5236000,681200 5236000,681200 5236200,681000 5236200,681000 5236000))",25832,fixture-peat-survey,2026-03-10,high,0.9

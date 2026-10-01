@@ -1,0 +1,14 @@
+# generated output (recreated by every run)
+out/
+
+# Python caches and build files
+__pycache__/
+*.egg-info/
+.pytest_cache/
+
+# local environments / editor settings
+.venv/
+.idea/
+
+# playground files
+scratch_*.py

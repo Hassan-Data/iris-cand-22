@@ -1,0 +1,4 @@
+country_code,substation_id,name,voltage_kv,x,y,srid,source_name,source_date
+DE,DE-SS-01,Synthetic substation A,110,700800,5336500,25832,fixture-grid-operator,2026-01-31
+DE,DE-SS-02,Synthetic substation B,110,694500,5348000,25832,fixture-grid-operator,2026-01-31
+DE,DE-SS-03,Synthetic substation C,220,704000,5350000,25832,fixture-grid-operator,2026-01-31
